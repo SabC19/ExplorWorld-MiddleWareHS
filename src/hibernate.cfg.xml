@@ -26,6 +26,8 @@
 
         <mapping class="com.explorworld.model.Province"/>
      	<mapping class="com.explorworld.model.Locality"/>
+     	<mapping class="com.explorworld.model.Place"/>
+     	<mapping class="com.explorworld.model.Gender"/>
 
     </session-factory>
 </hibernate-configuration>
