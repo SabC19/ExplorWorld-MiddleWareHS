@@ -28,6 +28,16 @@
      	<mapping class="com.explorworld.model.Locality"/>
      	<mapping class="com.explorworld.model.Place"/>
      	<mapping class="com.explorworld.model.Gender"/>
+     	<mapping class="com.explorworld.model.Guide"/>
+     	<mapping class="com.explorworld.model.ActivityType"/>
+     	<mapping class="com.explorworld.model.Transport"/>
+     	<mapping class="com.explorworld.model.TransportType"/>
+     	<mapping class="com.explorworld.model.EquipmentType"/>
+     	<mapping class="com.explorworld.model.Participant"/>
+     	<mapping class="com.explorworld.model.Activity"/>
+     	<mapping class="com.explorworld.model.Ticket"/>
+     	<mapping class="com.explorworld.model.Payment"/>
+     	<mapping class="com.explorworld.model.PaymentMethod"/>
 
     </session-factory>
 </hibernate-configuration>
